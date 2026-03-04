@@ -10,7 +10,7 @@ The system tracks financial transactions, continuously calculates total expenses
 
 This project demonstrates how Python can be used to solve real-life problems such as personal money management.
 
----
+
 
 ## 🎯 Project Objectives
 
@@ -22,7 +22,6 @@ The main objectives of this project are:
 - To demonstrate real-time budget monitoring
 - To generate structured financial reports
 
----
 
 ## ⚙️ How the Application Works
 
@@ -35,7 +34,7 @@ When the program starts, the user is required to enter a **budget amount**.
 - The budget remains fixed throughout the session
 - All expenses entered later are compared against this value
 
----
+
 
 ### 2️⃣ Transaction Logging
 
@@ -54,7 +53,7 @@ For testing purposes, the system supports **at least five transactions**, though
 
 All transactions are stored and later displayed in the final summary.
 
----
+
 
 ### 3️⃣ Real-Time Expense Monitoring
 
@@ -70,7 +69,6 @@ If the budget is exceeded:
 
 This feature promotes financial awareness and responsible spending.
 
----
 
 ### 4️⃣ Ending the Input Session
 
@@ -81,7 +79,6 @@ Once the session ends:
 - No additional transactions are accepted
 - The program proceeds to generate the final report
 
----
 
 ### 5️⃣ Final Financial Summary
 
@@ -100,7 +97,7 @@ The summary also includes a **detailed transaction log** listing:
 
 This provides a complete overview of the user's financial activity.
 
----
+
 
 ## 🧠 Programming Concepts Applied
 
@@ -114,7 +111,7 @@ This project demonstrates the use of:
 - Basic arithmetic operations
 - Output formatting
 
----
+
 
 ## 🖥️ Example Usage
 
